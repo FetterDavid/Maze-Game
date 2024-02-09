@@ -1,0 +1,43 @@
+[
+    {"row": 0, "col": 0, "upWall": true, "rightWall": false, "downWall": true, "leftWall": true},
+    {"row": 1, "col": 0, "upWall": true, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 2, "col": 0, "upWall": false, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 3, "col": 0, "upWall": false, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 4, "col": 0, "upWall": false, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 5, "col": 0, "upWall": false, "rightWall": false, "downWall": true, "leftWall": true},
+
+    {"row": 0, "col": 1, "upWall": true, "rightWall": false, "downWall": false, "leftWall": false},
+    {"row": 1, "col": 1, "upWall": false, "rightWall": true, "downWall": true, "leftWall": false},
+    {"row": 2, "col": 1, "upWall": true, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 3, "col": 1, "upWall": false, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 4, "col": 1, "upWall": false, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 5, "col": 1, "upWall": false, "rightWall": false, "downWall": true, "leftWall": false},
+
+    {"row": 0, "col": 2, "upWall": true, "rightWall": false, "downWall": false, "leftWall": false},
+    {"row": 1, "col": 2, "upWall": false, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 2, "col": 2, "upWall": false, "rightWall": true, "downWall": true, "leftWall": true},
+    {"row": 3, "col": 2, "upWall": true, "rightWall": false, "downWall": true, "leftWall": false},
+    {"row": 4, "col": 2, "upWall": true, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 5, "col": 2, "upWall": false, "rightWall": false, "downWall": true, "leftWall": false},
+
+    {"row": 0, "col": 3, "upWall": true, "rightWall": false, "downWall": false, "leftWall": false},
+    {"row": 1, "col": 3, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 2, "col": 3, "upWall": false, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 3, "col": 3, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 4, "col": 3, "upWall": false, "rightWall": false, "downWall": false, "leftWall": false},
+    {"row": 5, "col": 3, "upWall": false, "rightWall": false, "downWall": true, "leftWall": false},
+
+    {"row": 0, "col": 4, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 1, "col": 4, "upWall": false, "rightWall": true, "downWall": true, "leftWall": true},
+    {"row": 2, "col": 4, "upWall": true, "rightWall": false, "downWall": true, "leftWall": false},
+    {"row": 3, "col": 4, "upWall": true, "rightWall": false, "downWall": false, "leftWall": true},
+    {"row": 4, "col": 4, "upWall": false, "rightWall": false, "downWall": false, "leftWall": false},
+    {"row": 5, "col": 4, "upWall": false, "rightWall": false, "downWall": true, "leftWall": false},
+
+    {"row": 0, "col": 5, "upWall": true, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 1, "col": 5, "upWall": false, "rightWall": true, "downWall": false, "leftWall": true},
+    {"row": 2, "col": 5, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 3, "col": 5, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 4, "col": 5, "upWall": false, "rightWall": true, "downWall": false, "leftWall": false},
+    {"row": 5, "col": 5, "upWall": false, "rightWall": true, "downWall": true, "leftWall": false}
+  ]
